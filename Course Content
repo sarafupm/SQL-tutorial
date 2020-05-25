@@ -1,1 +1,5 @@
 SQL Staments: 
+DQL:
+
+The commands of SQL that are used to retrieve data from the database are collectively called as DQL. 
+So all Select statements comes under DQL.
