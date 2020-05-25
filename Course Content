@@ -1,4 +1,4 @@
-SQL Staments: 
+SQL statements: 
 DQL:
 
 The commands of SQL that are used to retrieve data from the database are collectively called as DQL. 
@@ -6,4 +6,10 @@ So all Select statements comes under DQL.
 
 DDL:
 
-Data Definition Language changes the structure of the table like creating a table, deleting a table, altering a table, etc.
+Data Definition Language changes the structure of the table like creating a table, deleting a table, altering a table, etc
+
+
+Data Manipulation Language;
+The commands of SQL that are used to insert data into the database, modify the data of the database and to delete data from the 
+database are collectively called as DML.
+Truncate is not a DML statements.
